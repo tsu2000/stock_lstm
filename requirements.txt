@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.3
+yfinance==0.2.61
+matplotlib==3.10.3
+torch==2.6.0
+scikit-learn==1.6.1
+python-dateutil==2.8.2

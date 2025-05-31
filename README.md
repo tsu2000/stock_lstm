@@ -1,4 +1,4 @@
-# Stock Day Trading with PyTorch and LSTM networks
+# 💸 Stock Trading with PyTorch and LSTM networks
 
 ![image](https://github.com/user-attachments/assets/d6bd51c3-9084-4062-8c4c-c5d77c2f14a2)
 
